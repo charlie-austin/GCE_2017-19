@@ -23,7 +23,7 @@ _For **detailed instructions**, please refer to the **Setup Guide**._
 Throughout the course you will regularly be given **code challenges** to complete. You should be set a challenge **every 1 to 2 weeks** (depending on the difficulty of the task and/or other course requirements). Initially, you will be provided with a **code outline** for each challenge but as the course progresses you will be expected to **develop your solutions from scratch**, following the style and structure of the outlines. Targeted **feedback** will be provided following each submission via GitHub. You will be expected to **reflect** upon and **respond** to each piece of feedback **within 24 hours**.
 
 ### The procedure for completing challenges will typically be as follows:
-1. Your challenge is set at the end of the week; instructions and deadlines will appear on Go4Schools.
+1. Your challenge is set at the end of the week; instructions and deadlines will appear on Go4Schools / shs.cloud.
 1. The class repo will be updated (initially) with an outline for that challenge.
 1. You create a **PULL request** on GitHub to update your fork with a copy of the outline.
 1. You **SYNC** your local repo (at school and/or at home) with GitHub to develop your solution offline.
